@@ -4,7 +4,6 @@ import org.openrndr.application
 import org.openrndr.color.ColorRGBa
 import org.openrndr.draw.isolated
 import org.openrndr.extensions.Screenshots
-import org.openrndr.extra.color.presets.WHEAT
 import org.openrndr.extra.noise.Random
 import org.openrndr.ffmpeg.ScreenRecorder
 import org.openrndr.math.Vector2

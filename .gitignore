@@ -6,6 +6,7 @@ out
 .lwjgl
 video/
 screenshots/
+recordings/
 gui-parameters/
 ffmpegOutput.txt
 ShaderError.glsl
